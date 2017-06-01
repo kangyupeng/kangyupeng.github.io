@@ -94,16 +94,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "邓有",
+        href: "https://you-deng.github.io/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "生成密码·BY",
+        href: "http://suijimimashengcheng.51240.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "sec-wiki",
+        href: "https://www.sec-wiki.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "51cto
+        href: "http://blog.51cto.com/"
     }
 ]
