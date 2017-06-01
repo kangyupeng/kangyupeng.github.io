@@ -97,13 +97,13 @@ friends: [
         title: "邓有",
         href: "https://you-deng.github.io/"
     },{
-        title: "生成密码·BY",
-        href: "http://suijimimashengcheng.51240.com/"
-    },{
         title: "sec-wiki",
         href: "https://www.sec-wiki.com/"
     },{
         title: "51cto",
         href: "http://blog.51cto.com/"
+    },{
+        title: "生成密码·BY",
+        href: "http://suijimimashengcheng.51240.com/"
     }
 ]
