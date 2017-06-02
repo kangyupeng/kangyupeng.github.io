@@ -10,7 +10,7 @@ tags:
     - 科学上网
 ---
 
-> Windows系统
+Windows系统
 打开目录C:\WINDOWS\system32\drivers\etc\，找到文件名为hosts的文件，用文本编辑器打开，在末尾添加解析内容即可。
 
 Android系统
