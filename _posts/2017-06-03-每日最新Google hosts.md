@@ -25,5 +25,4 @@ host位置为：/private/etc/hosts
 # 下载地址
 * github部分请自行删除。
 
-* http://file2015.softweek.net/file/google/helper/googlehosts20160425.txt 
-# 点击查看最新GOOGLE HOSTS
+# [点击查看最新GOOGLE HOSTS](http://file2015.softweek.net/file/google/helper/googlehosts20160425.txt)
