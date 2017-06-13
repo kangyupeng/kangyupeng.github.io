@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      每日最新Google hosts
-subtitle:   每日最新Google hosts
+title:      翱翔每日最新Google hosts
+subtitle:   
 date:       2017-06-03
 author:     BY kang
 header-img: img/post-bg-debug.png
@@ -25,4 +25,5 @@ host位置为：/private/etc/hosts
 # 下载地址
 * github部分请自行删除。
 
-# [点击查看最新GOOGLE HOSTS](http://file2015.softweek.net/file/google/helper/googlehosts20160425.txt)
+# [点击查看最新GOOGLE HOSTS (1)](http://file2015.softweek.net/file/google/helper/googlehosts20160425.txt)
+# [点击查看最新GOOGLE HOSTS (2)](https://github.com/racaljk/hosts/blob/master/hosts)
